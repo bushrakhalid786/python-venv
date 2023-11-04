@@ -46,7 +46,7 @@ pyenv install 3.8
 pyenv install 3.10
 pyenv install 3.11
 
-pyenv versions
+pyenv --versions
 
 ```
 to set your global version of python
